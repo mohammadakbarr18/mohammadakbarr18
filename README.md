@@ -4,11 +4,14 @@
 Hi, I'm Mohammad Akbar! 👋 💻 Backend Developer | 🎨 Visual Designer.<br>
 I am a Software Engineering (RPL) student at SMKN 1 Lumajang (Class of 2027). I live at the intersection of logic and creativity, focusing on building powerful backends with PHP Laravel while maintaining a keen eye for high-quality Visual Design.<br>
 
-🛠️ What I Focus On Backend Architecture: Crafting efficient server-side logic and managing databases using Laravel & MySQL. Visual & UI Design: Creating brand identities, logos, and high-fidelity prototypes using Figma and Inkscape. System Integration: Connecting the dots between complex backend APIs and intuitive user interfaces. Continuous Learning: Exploring the latest trends in DevOps, security, and modern design systems.
+🛠️ What I Focus On Backend Architecture:<br>
+Crafting efficient server-side logic and managing databases using Laravel & MySQL. Visual & UI Design: Creating brand identities, logos, and high-fidelity prototypes using Figma and Inkscape. System Integration: Connecting the dots between complex backend APIs and intuitive user interfaces. Continuous Learning: Exploring the latest trends in DevOps, security, and modern design systems.
 
-🚀 My Growth Roadmap As I progress through my journey in Software Engineering, I am focused on: Advanced Backend: Mastering Laravel Sanctum for API security and learning about Redis caching. Design Systems: Developing consistent UI kits that improve development speed and user experience. DevOps Basics: Learning how to deploy Laravel applications to cloud servers and managing environments. Clean Architecture: Writing code that is not just functional, but also maintainable and elegant.
+🚀 My Growth Roadmap<br>
+As I progress through my journey in Software Engineering, I am focused on: Advanced Backend: Mastering Laravel Sanctum for API security and learning about Redis caching. Design Systems: Developing consistent UI kits that improve development speed and user experience. DevOps Basics: Learning how to deploy Laravel applications to cloud servers and managing environments. Clean Architecture: Writing code that is not just functional, but also maintainable and elegant.
 
-📬 Let's Collaborate I'm always open to discussing new projects, whether it's building a robust backend system or designing a fresh brand identity. Location: Lumajang, Indonesia Current Status: Open to collaboration on Open Source or Freelance projects.
+📬 Let's Collaborate<br>
+I'm always open to discussing new projects, whether it's building a robust backend system or designing a fresh brand identity. Location: Lumajang, Indonesia Current Status: Open to collaboration on Open Source or Freelance projects.
 
 
 ## 🌐 Socials:
