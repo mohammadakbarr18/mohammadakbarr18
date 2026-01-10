@@ -4,14 +4,11 @@
 Hi, I'm Mohammad Akbar! 👋 💻 Backend Developer | 🎨 Visual Designer.<br>
 I am a Software Engineering (RPL) student at SMKN 1 Lumajang (Class of 2027). I live at the intersection of logic and creativity, focusing on building powerful backends with PHP Laravel while maintaining a keen eye for high-quality Visual Design.<br>
 
-🛠️ What I Focus On Backend Architecture:<br>
-Crafting efficient server-side logic and managing databases using Laravel & MySQL. Visual & UI Design: Creating brand identities, logos, and high-fidelity prototypes using Figma and Inkscape. System Integration: Connecting the dots between complex backend APIs and intuitive user interfaces. Continuous Learning: Exploring the latest trends in DevOps, security, and modern design systems.
+🛠️ Fokus Utama Saya Dalam pengembangan perangkat lunak, keahlian utama saya mencakup Arsitektur Backend dengan membangun logika server yang efisien serta pengelolaan basis data menggunakan Laravel dan MySQL. Saya juga mendalami Desain Visual dan UI untuk menciptakan identitas merek, logo, dan prototipe tingkat tinggi menggunakan Figma dan Inkscape. Selain itu, saya berfokus pada Integrasi Sistem untuk menghubungkan API backend dengan antarmuka pengguna yang intuitif, serta terus mengeksplorasi tren terbaru dalam DevOps, keamanan siber, dan sistem desain modern.
 
-🚀 My Growth Roadmap<br>
-As I progress through my journey in Software Engineering, I am focused on: Advanced Backend: Mastering Laravel Sanctum for API security and learning about Redis caching. Design Systems: Developing consistent UI kits that improve development speed and user experience. DevOps Basics: Learning how to deploy Laravel applications to cloud servers and managing environments. Clean Architecture: Writing code that is not just functional, but also maintainable and elegant.
+🚀 Rencana Pengembangan Diri Seiring perjalanan saya di bidang rekayasa perangkat lunak, saya berfokus pada penguasaan Backend Tingkat Lanjut melalui Laravel Sanctum untuk keamanan API dan optimasi Redis, serta pengembangan Sistem Desain yang konsisten untuk meningkatkan efisiensi kerja. Saya juga sedang mempelajari dasar-dasar DevOps untuk penerapan aplikasi ke server awan serta penerapan Arsitektur Bersih (Clean Architecture) agar kode yang saya hasilkan tidak hanya berfungsi dengan baik, tetapi juga mudah dikelola dan elegan.
 
-📬 Let's Collaborate<br>
-I'm always open to discussing new projects, whether it's building a robust backend system or designing a fresh brand identity. Location: Lumajang, Indonesia Current Status: Open to collaboration on Open Source or Freelance projects.
+📬 Mari Berkolaborasi Saya selalu terbuka untuk mendiskusikan proyek baru, baik dalam membangun sistem backend yang andal maupun merancang identitas visual yang segar. Saat ini saya berdomisili di Lumajang, Indonesia, dan siap untuk berkolaborasi dalam proyek sumber terbuka (open source) maupun pekerjaan lepas.
 
 
 ## 🌐 Socials:
