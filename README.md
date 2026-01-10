@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Mohammad Akbar! 👋 💻 Backend Developer | 🎨 Visual Designer
-I am a Software Engineering (RPL) student at SMKN 1 Lumajang (Class of 2027). I live at the intersection of logic and creativity, focusing on building powerful backends with PHP Laravel while maintaining a keen eye for high-quality Visual Design.
+Hi, I'm Mohammad Akbar! 👋 💻 Backend Developer | 🎨 Visual Designer.<br>
+I am a Software Engineering (RPL) student at SMKN 1 Lumajang (Class of 2027). I live at the intersection of logic and creativity, focusing on building powerful backends with PHP Laravel while maintaining a keen eye for high-quality Visual Design.<br>
 
 🛠️ What I Focus On Backend Architecture: Crafting efficient server-side logic and managing databases using Laravel & MySQL. Visual & UI Design: Creating brand identities, logos, and high-fidelity prototypes using Figma and Inkscape. System Integration: Connecting the dots between complex backend APIs and intuitive user interfaces. Continuous Learning: Exploring the latest trends in DevOps, security, and modern design systems.
 
