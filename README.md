@@ -1,14 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Mohammad Akbar! 👋 💻 Backend Developer | 🎨 Visual Designer.<br>
-I am a Software Engineering (RPL) student at SMKN 1 Lumajang (Class of 2027). I live at the intersection of logic and creativity, focusing on building powerful backends with PHP Laravel while maintaining a keen eye for high-quality Visual Design.<br>
-
-🛠️ Fokus Utama Saya Dalam pengembangan perangkat lunak, keahlian utama saya mencakup Arsitektur Backend dengan membangun logika server yang efisien serta pengelolaan basis data menggunakan Laravel dan MySQL. Saya juga mendalami Desain Visual dan UI untuk menciptakan identitas merek, logo, dan prototipe tingkat tinggi menggunakan Figma dan Inkscape. Selain itu, saya berfokus pada Integrasi Sistem untuk menghubungkan API backend dengan antarmuka pengguna yang intuitif, serta terus mengeksplorasi tren terbaru dalam DevOps, keamanan siber, dan sistem desain modern.
-
-🚀 Rencana Pengembangan Diri Seiring perjalanan saya di bidang rekayasa perangkat lunak, saya berfokus pada penguasaan Backend Tingkat Lanjut melalui Laravel Sanctum untuk keamanan API dan optimasi Redis, serta pengembangan Sistem Desain yang konsisten untuk meningkatkan efisiensi kerja. Saya juga sedang mempelajari dasar-dasar DevOps untuk penerapan aplikasi ke server awan serta penerapan Arsitektur Bersih (Clean Architecture) agar kode yang saya hasilkan tidak hanya berfungsi dengan baik, tetapi juga mudah dikelola dan elegan.
-
-📬 Mari Berkolaborasi Saya selalu terbuka untuk mendiskusikan proyek baru, baik dalam membangun sistem backend yang andal maupun merancang identitas visual yang segar. Saat ini saya berdomisili di Lumajang, Indonesia, dan siap untuk berkolaborasi dalam proyek sumber terbuka (open source) maupun pekerjaan lepas.
+Halo, saya Mohammad Akbar Backend Developer | Visual Designer SMKN 1 Lumajang (RPL, Class of 2027) <br>
+Fokus Utama: Pengembangan backend efisien (PHP Laravel, MySQL) dan desain visual berkualitas tinggi (Figma, Inkscape).
+Pengembangan Diri: Mendalami keamanan API (Sanctum), optimasi Redis, Clean Architecture, dan dasar-dasar DevOps.
+Kolaborasi: Berdomisili di Lumajang. Terbuka untuk proyek open source dan pekerjaan lepas.
 
 
 ## 🌐 Socials:
