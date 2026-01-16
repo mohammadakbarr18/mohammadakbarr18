@@ -3,7 +3,7 @@
 # 💫 About Me:
 Halo, saya Mohammad Akbar Backend Developer | Visual Designer SMKN 1 Lumajang (RPL, Class of 2027) <br>
 Fokus Utama: Pengembangan backend efisien (PHP Laravel, MySQL) dan desain visual berkualitas tinggi (Figma, Inkscape).
-Pengembangan Diri: Mendalami keamanan API (Sanctum), optimasi Redis, Clean Architecture, dan dasar-dasar DevOps.
+Pengembangan Diri: Mendalami keamanan API (Sanctum), optimasi Redis, Clean Architecture, dan dasar-dasar DevOps.<br>
 Kolaborasi: Berdomisili di Lumajang. Terbuka untuk proyek open source dan pekerjaan lepas.
 
 
