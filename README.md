@@ -53,14 +53,14 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadakbarr18&layout=compact&theme=radical&card_width=330" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadakbarr18&theme=radical" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadakbarr18&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadakbarr18&layout=compact&theme=radical&card_width=330" height="180" alt="languages" />
 </div>
 
 ---
