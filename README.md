@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=3670A0&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -79,6 +79,3 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----
-<p align="center">Made with ❤️ by Mohammad Akbar</p>
