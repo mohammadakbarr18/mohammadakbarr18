@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -47,14 +47,15 @@ Saya menggunakan berbagai alat dan teknologi untuk mengubah ide menjadi solusi d
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical" height="180" alt="stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadakbarr18&layout=compact&theme=radical&card_width=330" height="180" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadakbarr18&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=mohammadakbarr18&theme=radical" alt="streak" />
 </div>
 
 ---
