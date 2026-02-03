@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -50,11 +50,10 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 
 ---
 
-### 📊 GitHub Statistics
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical" height="180" alt="stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadakbarr18&layout=compact&theme=radical&card_width=330" height="180" alt="languages" />
 </div>
 
@@ -66,18 +65,20 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 
 ---
 
-### 📫 Connect with Me
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  <p>Tertarik untuk berdiskusi tentang proyek, teknologi, atau sekadar menyapa? Jangan ragu untuk menghubungi saya!</p>
 
-Tertarik untuk berdiskusi tentang proyek, teknologi, atau sekadar menyapa? Jangan ragu untuk menghubungi saya!
-
-<p align="left">
   <a href="https://discord.gg/LINK_INVITE_DISCORD_ANDA" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
   <a href="https://instagram.com/mohammd_akbr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:EMAIL_ANDA@GMAIL.COM">
+  <a href="mailto:mohammadakbarr18@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <img src="
+</div>
+
+---
+<p align="center">Made with ❤️ by Mohammad Akbar</p>
