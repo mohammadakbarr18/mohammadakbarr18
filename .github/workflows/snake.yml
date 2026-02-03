@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
+  # Jalankan otomatis setiap jam 12 malam
   schedule:
-    - cron: "0 0 * * *" # Jalan setiap jam 12 malam
-  workflow_dispatch: # Bisa dijalankan manual
+    - cron: "0 0 * * *" 
+  
+  # Bisa dijalankan manual kapan saja
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,7 +18,12 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
+          # Username GitHub Anda
           github_user_name: mohammadakbarr18
+          
+          # DAFTAR OUTPUT GAMBAR:
+          # Baris pertama membuat versi terang (default)
+          # Baris kedua membuat versi GELAP (yang Anda inginkan)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
