@@ -77,5 +77,7 @@ Tertarik untuk berdiskusi tentang proyek, teknologi, atau sekadar menyapa? Janga
   <a href="https://instagram.com/mohammd_akbr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:mohammadakbarr18@gmail.com">
+  <a href="mailto:EMAIL_ANDA@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
     <img src="
