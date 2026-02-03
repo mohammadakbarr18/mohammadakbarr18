@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -70,7 +70,7 @@ Tertarik untuk berdiskusi tentang proyek, teknologi, atau sekadar menyapa? Janga
   <a href="https://instagram.com/mohammd_akbr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto: mohammadakbarr18@gmail.com">
+  <a href="mailto:mohammadakbarr18@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
