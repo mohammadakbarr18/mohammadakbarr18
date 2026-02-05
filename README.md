@@ -51,20 +51,7 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 ---
 <h3 align="center">📊 My Engineering Dashboard</h3>
 <div align="center">
-  <img src="https://github.com/mohammadakbarr18/mohammadakbarr18/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
----
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadakbarr18&theme=radical&mode=weekly" alt="streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <img src="https://raw.githubusercontent.com/mohammadakbarr18/mohammadakbarr18/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
