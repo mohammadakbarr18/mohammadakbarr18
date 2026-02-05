@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Update setiap jam 00:00 WIB
+  # Update otomatis setiap jam 00:00 WIB
   schedule: [{cron: "0 17 * * *"}]
   # Bisa dijalankan manual
   workflow_dispatch:
@@ -22,11 +22,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
           
-          # --- Konfigurasi Penyimpanan (INI YANG DIPERBAIKI) ---
-          # Kita ubah dari 'gist' menjadi 'commit' agar file masuk ke repo
+          # --- PENYIMPANAN (INI YANG KITA PERBAIKI) ---
+          # Kita paksa simpan di branch 'main' agar file muncul di folder utama
           output_action: commit
-          committer_branch: metrics
-          committer_message: "Update metrics display"
+          committer_branch: main
+          committer_message: "Update dashboard image"
           filename: github-metrics.svg
 
           # --- Plugin Tambahan (3D & Coding Habits) ---
