@@ -60,7 +60,6 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadakbarr18&layout=compact&theme=radical&card_width=330" height="180" alt="languages" />
 </div>
 
 ---
