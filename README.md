@@ -49,7 +49,12 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 </div>
 
 ---
+<h3 align="center">📊 My Engineering Dashboard</h3>
+<div align="center">
+  <img src="https://github.com/mohammadakbarr18/mohammadakbarr18/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
+---
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
