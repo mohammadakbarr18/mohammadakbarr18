@@ -53,7 +53,7 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadakbarr18&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadakbarr18&theme=radical&mode=weekly" alt="streak" />
 </div>
 
 <br/>
