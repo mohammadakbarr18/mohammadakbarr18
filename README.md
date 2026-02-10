@@ -50,6 +50,16 @@ Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** 
 
 ---
 
+<h3 align="center">GitHub Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadakbarr18&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  
+  <br/> <img src="https://streak-stats.demolab.com/?user=mohammadakbarr18&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
 <div align="center">
   <h3>📫 Connect with Me</h3>
   <p>Tertarik untuk berdiskusi tentang proyek, teknologi, atau sekadar menyapa? Jangan ragu untuk menghubungi saya!</p>
