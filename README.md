@@ -1,20 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=3670A0&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Mohammad+Akbar;Backend+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=3670A0&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Mohammad+Akbar;FulStack+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Backend Developer | RPL Class of 2027 | Lumajang Based</h3>
+  <h3>🚀 Fulstack Developer | RPL Class of 2027 | Lumajang Based</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Halo! Saya **Mohammad Akbar**, seorang siswa **Rekayasa Perangkat Lunak (RPL)** yang berdedikasi tinggi pada dunia Backend Development. Saya percaya bahwa kode yang baik bukan hanya yang berfungsi, tetapi juga yang efisien, aman, dan mudah dipelihara.
-
-- 🎯 **Fokus Utama:** Membangun backend yang kokoh dan efisien menggunakan **PHP (Laravel)** dan **MySQL**.
-- 🚀 **Pengembangan Diri:** Saat ini sedang mendalami keamanan API (**Laravel Sanctum**), optimasi performa dengan **Redis**, penerapan **Clean Architecture**, serta mempelajari dasar-dasar **DevOps**.
-- 🤝 **Kolaborasi:** Berdomisili di **Lumajang**. Saya sangat terbuka untuk kontribusi proyek *open source* maupun pekerjaan lepas (*freelance*).
+Halo! Saya **Mohammad Akbar**, Saya manusia bang
 
 ---
 
