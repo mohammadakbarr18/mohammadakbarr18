@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya **Mohammad Akbar**, cukup tau, yang lain ga perlu tau.
+Halo! Saya **Mohammad Akbar**, cukup tau yang lain ga perlu tau.
 
 ---
 
