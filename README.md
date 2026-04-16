@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=3670A0&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Mohammad+Akbar;FulStack+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=3670A0&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Mohammad+Akbar;FullStack+Developer+%26+RPL+Student;Building+Efficient+Systems;Laravel+%2B+PHP+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya **Mohammad Akbar**, Saya manusia bang
+Halo! Saya **Mohammad Akbar**, cukup tau, yang lain ga perlu tau.
 
 ---
 
